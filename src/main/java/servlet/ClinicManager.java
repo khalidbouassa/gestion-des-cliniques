@@ -12,7 +12,7 @@ import java.io.IOException;
 import beans.Clinic;
 
 /**
- * Servlet implementation class ClinicManager
+ * Servlet implementation class ClinicManager;
  */
 public class ClinicManager extends HttpServlet {
 	private static final long serialVersionUID = 1L;
